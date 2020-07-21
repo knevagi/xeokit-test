@@ -1,0 +1,58 @@
+{
+  "id": "Project Number",
+  "projectId": "0gkbD86_XBgQrYZ6tJlPre",
+  "author": "",
+  "createdAt": "2014-12-02T11:32:43",
+  "schema": "IFC2X3",
+  "creatingApplication": "20140606_1530(x64) - Exporter 2015.0.2014.0606 - Default UI",
+  "metaObjects": [
+    {
+      "id": "0gkbD86_XBgQrYZ6tJlPre",
+      "name": "Project Number",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "0gkbD86_XBgQrYZ6tJlPrg",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "0gkbD86_XBgQrYZ6tJlPre"
+    },
+    {
+      "id": "0gkbD86_XBgQrYZ6tJlPrf",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "0gkbD86_XBgQrYZ6tJlPrg"
+    },
+    {
+      "id": "0gkbD86_XBgQrYZ6qiGcEl",
+      "name": "Level 0",
+      "type": "IfcBuildingStorey",
+      "parent": "0gkbD86_XBgQrYZ6tJlPrf"
+    },
+    {
+      "id": "3uPlCH7wP2fu4If6Q86Sno",
+      "name": "Basic Wall:Wall-Ext_102Bwk-75Ins-100LBlk-12P:285323",
+      "type": "IfcWallStandardCase",
+      "parent": "0gkbD86_XBgQrYZ6qiGcEl"
+    },
+    {
+      "id": "3uPlCH7wP2fu4If6Q86Smn",
+      "name": "Basic Wall:Wall-Ext_102Bwk-75Ins-100LBlk-12P:285384",
+      "type": "IfcWallStandardCase",
+      "parent": "0gkbD86_XBgQrYZ6qiGcEl"
+    },
+    {
+      "id": "3uPlCH7wP2fu4If6Q86Sm4",
+      "name": "Basic Wall:Wall-Ext_102Bwk-75Ins-100LBlk-12P:285437",
+      "type": "IfcWallStandardCase",
+      "parent": "0gkbD86_XBgQrYZ6qiGcEl"
+    },
+    {
+      "id": "3uPlCH7wP2fu4If6Q86StK",
+      "name": "Basic Wall:Wall-Ext_102Bwk-75Ins-100LBlk-12P:285485",
+      "type": "IfcWallStandardCase",
+      "parent": "0gkbD86_XBgQrYZ6qiGcEl"
+    }
+  ]
+}
